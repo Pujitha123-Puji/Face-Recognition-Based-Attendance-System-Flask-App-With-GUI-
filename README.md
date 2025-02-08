@@ -43,14 +43,14 @@ graphical user interface.
 
 **Outcome**:
 The outcome of this project will be a fully functional face recognition-based attendance 
-system implemented as a Flask web application with a GUI. It will oCer the following 
+system implemented as a Flask web application with a GUI. It will offer the following 
 benefits:
 • Automated attendance tracking: Eliminates the need for manual attendance 
 marking, reducing errors and saving time.
 • Enhanced security: Utilizes facial recognition technology for accurate 
 identification, minimizing the risk of unauthorized access.
 • User-friendly interface: The intuitive GUI allows administrators and users to 
-interact with the system eCortlessly.
+interact with the system effortlessly.
 • Scalability: The modular design enables easy integration with existing 
 infrastructure and supports scalability for future expansion.
 • Improved eCiciency: Streamlines the attendance management process, leading 
