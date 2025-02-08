@@ -3,8 +3,8 @@
 **Abstract**:
 This project aims to develop a robust and efficient face recognition-based attendance 
 system implemented as a Flask web application with a graphical user interface (GUI). 
-Traditional attendance systems often suCer from inaccuracies, buddy punching, and 
-ineCiciencies. Leveraging machine learning techniques, particularly facial recognition, 
+Traditional attendance systems often suffer from inaccuracies, buddy punching, and 
+inefficiencies. Leveraging machine learning techniques, particularly facial recognition, 
 this system automates the attendance marking process. It involves capturing images of 
 individuals, identifying faces using deep learning algorithms, and recording attendance 
 data in a database. The Flask framework facilitates the creation of a user-friendly 
